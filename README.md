@@ -1,6 +1,6 @@
 # Oh My Scan
 
-Download french scans from scan-op.cc
+Download french scans from scan-op.cc.
 
 ## Table of contents
 
