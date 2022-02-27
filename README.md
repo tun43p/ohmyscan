@@ -1,5 +1,7 @@
 # Oh My Scan
 
+Download french scans from scan-op.cc
+
 ## Table of contents
 
 - [Oh My Scan](#oh-my-scan)
